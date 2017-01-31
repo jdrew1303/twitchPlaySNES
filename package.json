@@ -1,0 +1,22 @@
+{
+  "name": "twitch_playsnes",
+  "version": "1.0.0",
+  "description": "Play Snes via Twitch chat",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGoodnight/twitchPlaySNES.git"
+  },
+  "author": "Adam Goodnight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AGoodnight/twitchPlaySNES/issues"
+  },
+  "homepage": "https://github.com/AGoodnight/twitchPlaySNES#readme",
+  "dependencies": {
+    "twitch-api": "0.4.5"
+  }
+}
